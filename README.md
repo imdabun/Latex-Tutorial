@@ -2,13 +2,13 @@
 Resources for my LaTeX tutorials
 
 ## Lesson Contents
-**Intro to LaTeX**
-**Setting Up Template**
-**Basic Typesetting**
-**Math Mode**
-**Adding Images**
-**Theorem Environment**
-**Drawing Graphs**
+**Intro to LaTeX**  
+**Setting Up Template**  
+**Basic Typesetting**  
+**Math Mode**  
+**Adding Images**  
+**Theorem Environment**  
+**Drawing Graphs**  
 
 ## Lesson Structure
 The contents of tutorial.tex will be rewritten on a fresh tex document, alongside explanations and demonstrations.
